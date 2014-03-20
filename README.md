@@ -62,4 +62,5 @@ La animación puede ser pausada, detenida, adelantada, atrasada, acelerada o des
 ##Resultados
 ánimus debería tener dos tipos de resultado. Uno es un archivo svg que pueda ser insertado en páginas web. El segundo tipo de resultado son archivos de video en formatos comunes como AVI o MPEG.
 
-
+###Anexos:
+https://docs.google.com/file/d/0B9HbxHW_J6lIakNNbXFlNTJKN2c/edit
